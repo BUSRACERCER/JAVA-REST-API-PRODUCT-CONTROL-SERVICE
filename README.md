@@ -1,4 +1,4 @@
-# JAVA-REST-API-MOZART-WEB-SERVICE
+# JAVA-REST-API-PRODUCT-CONTROL-SERVICE
 <p> 
 After the user login, the service of registration, listing and updating of the products is prepared.
 
