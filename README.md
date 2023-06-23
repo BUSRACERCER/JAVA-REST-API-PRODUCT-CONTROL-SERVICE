@@ -2,7 +2,7 @@
 <p> 
 After the user login, the service of registration, listing and updating of the products is prepared.
 
-JAVA, SPRING BOOT, POST,REST API technologies are used in the application.
+JAVA, SPRING BOOT, POSTMAN, REST API technologies are used in the application.
 </p>
 
 # Software Versions:
@@ -10,6 +10,7 @@ JAVA, SPRING BOOT, POST,REST API technologies are used in the application.
 - Spring 2.17.3
 - RestFul
 - Postman
+- Jsoup
    
 # Application Features:
 - [x] User Login
