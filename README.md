@@ -30,19 +30,19 @@ In this application, session cookie are used.
 # Project Display Image
 
 <p>
-      <a href="https://github.com/hakanozer/AndroidCampaigns/blob/master/ekran_goruntuleri/1.png" target="_blank">
+      <a >
     <img src="REST PRODUCT FOTO/LOGIN.png" style="max-width:100%;"> 
 </a>
-<a href="https://github.com/hakanozer/AndroidCampaigns/blob/master/ekran_goruntuleri/1.png" target="_blank">
+<a >
     <img src="REST PRODUCT FOTO/LOGIN SUCCESS.png" style="max-width:100%;"> 
 </a>
-    <a href="https://github.com/hakanozer/AndroidCampaigns/blob/master/ekran_goruntuleri/1.png" target="_blank">
+    <a>
     <img src="REST PRODUCT FOTO/SAVE.png" style="max-width:100%;"> 
 </a>
-       <a href="https://github.com/hakanozer/AndroidCampaigns/blob/master/ekran_goruntuleri/1.png" target="_blank">
+       <a>
     <img src="REST PRODUCT FOTO/LIST.png" style="max-width:100%;"> 
 </a>
-       <a href="https://github.com/hakanozer/AndroidCampaigns/blob/master/ekran_goruntuleri/1.png" target="_blank">
+       <a>
     <img src="REST PRODUCT FOTO/UPDATE.png" style="max-width:100%;"> 
 </a>
 </p>
